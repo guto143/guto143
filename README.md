@@ -1,4 +1,4 @@
-- <h1>👋 ola meu nome @guto143 meu email
+- <h1>👋 ola meu nome augusto poças meu email
 - 👍  de contato augusto.pocas@escola.pr.gov.br
 - 👀 eu pretendo aprender a progomar em novas linguagem 
 - 🌱 estou aprendendo a progamar 
